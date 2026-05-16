@@ -1,8 +1,6 @@
 # Generative-App-Fingerprinting
 
-An end-to-end project for attributing AI-generated images to the application that produced them, not just the underlying model.
-
-This repository combines notebook-driven experiments, forensic feature learning, and publication-style reporting to study how application pipelines leave behind detectable visual fingerprints. The core idea is simple: two apps can share a generator, but still produce images with different residual, spectral, and post-processing traces.
+An end-to-end project for attributing AI-generated images to the application that produced them, not just the underlying model. This repository contains notebook-driven experiments, forensic feature learning to study how application pipelines leave behind detectable visual fingerprints. The core idea is simple: two apps can share a generator, but still produce images with different residual, spectral, and post-processing traces.
 
 ## Project Snapshot
 
