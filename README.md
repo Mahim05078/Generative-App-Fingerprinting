@@ -20,3 +20,9 @@ The project evaluates four complementary views of the attribution problem:
 - The dataset contains **323 images across 8 applications** with noticeable class imbalance and varied resolutions.
 - The best residual model outperforms the semantic baseline, suggesting that application identity is encoded in low-level artifacts.
 - Frequency fusion is not automatically beneficial, which makes the project useful for studying negative transfer in multimodal forensic models.
+
+## Step-by-step Guide
+
+- Download the dataset from google drive (Cell 1 in notebook)
+- Skip Cell 2,3 and run the Non visual baseline first (Cell 4)
+- Execute from Cell 2 sequentially up untill the end (except cell 4). Make sure to keep the helper python files in the same project directory.
